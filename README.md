@@ -13,7 +13,6 @@
 
 > I'm a data and AI practitioner who pairs a business and information-systems foundation (B.S. in Information and Decision Sciences, University of Illinois Chicago) with graduate training in applied data science at the University of Chicago. I turn messy, unstructured data into clear dashboards and decisions that teams can act on.
 
-🤝 Connected with [Steve Buchicago](https://github.com/steviebuchicago), Professor of AI in UChicago's MS in Applied Data Science. See his profile: [steviebuchicago](https://github.com/steviebuchicago/steviebuchicago).
 
 ---
 
