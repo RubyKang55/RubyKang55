@@ -46,14 +46,6 @@
 - **Student Teaching Aide, UIC College of Business Administration** (Sep 2024–May 2026): supported marketing research and analytics courses.
 - **Excel and Tableau Trainee, The Global Tech Experience** (Aug–Dec 2023): built dashboards and analyzed A/B tests.
 
-## Projects
-
-| Project | What it shows | Link |
-|---|---|---|
-| Customer voice analytics | PySpark ETL, Gemini and RoBERTa emotion analysis, Power BI | _coming soon_ |
-| AI assistant survey analysis | R data cleaning, statistics, visualization | _coming soon_ |
-| Tableau A/B test dashboard | Dashboards and experiment analysis | _coming soon_ |
-
 ## Education
 
 - **MS, Applied Data Science**, University of Chicago
