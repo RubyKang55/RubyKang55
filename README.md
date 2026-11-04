@@ -1,4 +1,4 @@
-# Hi, I'm Nayeong (Ruby) Kang 👋
+# Hi, I'm Ruby Kang 
 
 **MS Applied Data Science @ UChicago | Bridging Data, AI & Business Strategy**
 
